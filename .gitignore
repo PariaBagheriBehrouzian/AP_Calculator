@@ -1,0 +1,20 @@
+output / build
+
+out/
+*.class
+
+IDEs
+
+.idea/
+*.iml
+.vscode/
+
+archives
+
+*.zip
+*.jar
+
+OS
+
+.DS_Store
+Thumbs.db
