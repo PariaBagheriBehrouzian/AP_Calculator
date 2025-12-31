@@ -1,6 +1,6 @@
-تمرین Swing — AP_Calculator
+تمرین AP_Calculator
 
-عنوان: تمرین Swing — AP_Calculator
+عنوان: تمرین AP_Calculator
 نام دانشجو: Paria Behrouzian
 شماره دانشجویی: 40312013
 گیت‌هاب: https://github.com/PariaBagheriBehrouzian
